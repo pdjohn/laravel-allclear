@@ -1,5 +1,9 @@
 # Laravel All Clear
-[![Latest Stable Version](http://poser.pugx.org/pdjohn/laravel-allclear/v)](https://packagist.org/packages/pdjohn/laravel-allclear) 
+[![Downloads](https://img.shields.io/github/downloads/pdjohn/laravel-allclear/total?label=Downloads)]((https://packagist.org/packages/pdjohn/laravel-allclear))
+
+
+
+ [![Latest Stable Version](http://poser.pugx.org/pdjohn/laravel-allclear/v)](https://packagist.org/packages/pdjohn/laravel-allclear) 
 [![Daily Downloads](http://poser.pugx.org/pdjohn/laravel-allclear/d/daily)](https://packagist.org/packages/pdjohn/laravel-allclear)
 [![Monthly Downloads](http://poser.pugx.org/pdjohn/laravel-allclear/d/monthly)](https://packagist.org/packages/pdjohn/laravel-allclear)
 [![Total Downloads](http://poser.pugx.org/pdjohn/laravel-allclear/downloads)](https://packagist.org/packages/pdjohn/laravel-allclear)
