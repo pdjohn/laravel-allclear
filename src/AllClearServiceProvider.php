@@ -17,8 +17,6 @@ class AllClearServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->app->singleton('all:clear', function ($app) {
-            return new AllClearCommand();
-        });
+
     }
 }
