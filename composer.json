@@ -16,7 +16,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
-        "illuminate/support": ">=5.4"
+        "illuminate/support": ">=5.4",
+        "laravel": ">=8.75"
     },
     "extra": {
         "laravel": {
