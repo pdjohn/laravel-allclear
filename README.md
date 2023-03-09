@@ -1,6 +1,4 @@
 # Laravel All Clear
-[![Downloads](https://img.shields.io/github/downloads/pdjohn/laravel-allclear/total?label=Downloads)]((https://packagist.org/packages/pdjohn/laravel-allclear))
-
 
 
  [![Latest Stable Version](http://poser.pugx.org/pdjohn/laravel-allclear/v)](https://packagist.org/packages/pdjohn/laravel-allclear) 
@@ -8,8 +6,6 @@
 [![Monthly Downloads](http://poser.pugx.org/pdjohn/laravel-allclear/d/monthly)](https://packagist.org/packages/pdjohn/laravel-allclear)
 [![Total Downloads](http://poser.pugx.org/pdjohn/laravel-allclear/downloads)](https://packagist.org/packages/pdjohn/laravel-allclear)
 [![License](http://poser.pugx.org/pdjohn/laravel-allclear/license)](https://packagist.org/packages/pdjohn/laravel-allclear) 
-[![PHP Version Require](http://poser.pugx.org/pdjohn/laravel-allclear/require/php)](https://packagist.org/packages/pdjohn/laravel-allclear)
-[![Laravel Version Require](http://poser.pugx.org/pdjohn/laravel-allclear/require/laravel)](https://packagist.org/packages/pdjohn/laravel-allclear)
 
 Laravel all clear command package to call all the cache and clear commands available in laravel in a single command.
 ## Installation
