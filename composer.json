@@ -1,0 +1,25 @@
+{
+    "name": "pdjohn/allclear",
+    "description": "This will run optimize, config, cache, route etc clear in one command",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PDJohn\\AllClear\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PD John"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PDJohn\\AllClear\\AllClearServiceProvider"
+            ]
+        }
+    }
+}
