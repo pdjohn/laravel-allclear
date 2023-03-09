@@ -1,5 +1,5 @@
 {
-    "name": "pdjohn/allclear",
+    "name": "pdjohn/laravel-allclear",
     "description": "This will run optimize, config, cache, route etc clear in one command",
     "type": "library",
     "license": "MIT",
