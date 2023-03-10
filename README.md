@@ -18,7 +18,7 @@ Install the package by the following command,
 
 Run the following command to cache and clear all in a single command,
 
-    php artisan laravel-pwa:publish
+    php artisan all:clear
 
 ### License
 The MIT License (MIT).    
